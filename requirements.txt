@@ -5,3 +5,8 @@ joblib
 streamlit
 matplotlib
 seaborn
+streamlit==1.49.1
+pandas==2.3.2
+numpy==2.3.2
+scikit-learn==1.7.1
+joblib==1.5.2
